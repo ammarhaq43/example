@@ -20,9 +20,9 @@ public class JavaApplication129 {
              int n1,n2, ans;
      Scanner obj = new Scanner(System.in);
      try{
-         System.out.println("Enter First Number:");
+         System.out.println("Enter 1st Number:");
          n1 = obj.nextInt();
-         System.out.println("Enter Second Number:");
+         System.out.println("Enter 2nd Number:");
          n2 = obj.nextInt();
          ans = n1/n2;
          System.out.println(n1+"/"+n2+"="+ans);
